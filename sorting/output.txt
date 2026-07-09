@@ -1,0 +1,24 @@
+
+Input Size: 100
+Bubble Sort   : 0.054739 ms
+Merge Sort    : 0.076319 ms
+Counting Sort : 0.496936 ms
+Fastest: Bubble Sort
+
+Input Size: 500
+Bubble Sort   : 1.4874 ms
+Merge Sort    : 0.308984 ms
+Counting Sort : 0.52695 ms
+Fastest: Merge Sort
+
+Input Size: 1000
+Bubble Sort   : 5.41544 ms
+Merge Sort    : 0.563811 ms
+Counting Sort : 0.462292 ms
+Fastest: Counting Sort
+
+Input Size: 10000
+Bubble Sort   : 540.174 ms
+Merge Sort    : 6.65608 ms
+Counting Sort : 0.780042 ms
+Fastest: Counting Sort

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/SortingTests.dir/tests/test_sorting.cpp.o CMakeFiles/SortingTests.dir/src/bubble.cpp.o CMakeFiles/SortingTests.dir/src/merge.cpp.o CMakeFiles/SortingTests.dir/src/count.cpp.o -o SortingTests 

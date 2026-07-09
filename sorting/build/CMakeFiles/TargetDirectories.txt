@@ -1,0 +1,5 @@
+/home/cyber-hpc/Desktop/Bhavashruthi/sorting/build/CMakeFiles/SortingComparison.dir
+/home/cyber-hpc/Desktop/Bhavashruthi/sorting/build/CMakeFiles/SortingTests.dir
+/home/cyber-hpc/Desktop/Bhavashruthi/sorting/build/CMakeFiles/test.dir
+/home/cyber-hpc/Desktop/Bhavashruthi/sorting/build/CMakeFiles/edit_cache.dir
+/home/cyber-hpc/Desktop/Bhavashruthi/sorting/build/CMakeFiles/rebuild_cache.dir
