@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/matrix_mul.dir/src/main.cpp.o CMakeFiles/matrix_mul.dir/src/matrix.cpp.o CMakeFiles/matrix_mul.dir/src/ijk.cpp.o CMakeFiles/matrix_mul.dir/src/ikj.cpp.o CMakeFiles/matrix_mul.dir/src/jik.cpp.o CMakeFiles/matrix_mul.dir/src/jki.cpp.o CMakeFiles/matrix_mul.dir/src/kij.cpp.o CMakeFiles/matrix_mul.dir/src/kji.cpp.o -o matrix_mul 

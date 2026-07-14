@@ -1,0 +1,95 @@
+===== ijk =====
+6.18426e+06
+
+ Performance counter stats for './matrix_mul ijk':
+
+    62,282,632,097      cache-references                                                      
+     2,959,707,571      cache-misses                     #    4.75% of all cache refs         
+   300,741,999,305      cycles                                                                
+   142,498,246,739      instructions                     #    0.47  insn per cycle            
+
+      69.837078087 seconds time elapsed
+
+      69.726959000 seconds user
+       0.053959000 seconds sys
+
+
+===== ikj =====
+6.18426e+06
+
+ Performance counter stats for './matrix_mul ikj':
+
+     3,256,098,351      cache-references                                                      
+     1,815,762,718      cache-misses                     #   55.76% of all cache refs         
+    38,450,057,120      cycles                                                                
+    63,889,486,390      instructions                     #    1.66  insn per cycle            
+
+       8.905758461 seconds time elapsed
+
+       8.852962000 seconds user
+       0.050988000 seconds sys
+
+
+===== jik =====
+6.18426e+06
+
+ Performance counter stats for './matrix_mul jik':
+
+    61,278,617,912      cache-references                                                      
+     2,963,931,778      cache-misses                     #    4.84% of all cache refs         
+   296,204,859,253      cycles                                                                
+   142,485,339,569      instructions                     #    0.48  insn per cycle            
+
+      68.807058862 seconds time elapsed
+
+      68.739160000 seconds user
+       0.045985000 seconds sys
+
+
+===== jki =====
+6.18426e+06
+
+ Performance counter stats for './matrix_mul jki':
+
+   144,112,104,620      cache-references                                                      
+     3,179,165,370      cache-misses                     #    2.21% of all cache refs         
+   725,956,538,647      cycles                                                                
+   158,926,084,434      instructions                     #    0.22  insn per cycle            
+
+     167.738104077 seconds time elapsed
+
+     167.602612000 seconds user
+       0.057992000 seconds sys
+
+
+===== kij =====
+6.18426e+06
+
+ Performance counter stats for './matrix_mul kij':
+
+     3,271,185,040      cache-references                                                      
+     2,010,650,286      cache-misses                     #   61.47% of all cache refs         
+    62,320,046,950      cycles                                                                
+    63,946,120,697      instructions                     #    1.03  insn per cycle            
+
+      14.416383765 seconds time elapsed
+
+      14.364822000 seconds user
+       0.047986000 seconds sys
+
+
+===== kji =====
+6.18426e+06
+
+ Performance counter stats for './matrix_mul kji':
+
+   144,633,880,368      cache-references                                                      
+     3,305,579,183      cache-misses                     #    2.29% of all cache refs         
+   726,566,594,334      cycles                                                                
+   158,877,964,105      instructions                     #    0.22  insn per cycle            
+
+     166.528028911 seconds time elapsed
+
+     166.446245000 seconds user
+       0.049990000 seconds sys
+
