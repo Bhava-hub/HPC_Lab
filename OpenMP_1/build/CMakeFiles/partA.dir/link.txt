@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/partA.dir/src/partA.cpp.o -o partA  libexperiment5_common.a /usr/lib/gcc/x86_64-linux-gnu/13/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.a 
